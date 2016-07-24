@@ -16,14 +16,14 @@
     
     <dependencies>
         <dependency>
-            <groupId>extjar</groupId>
-            <artifactId>sqlite</artifactId>
-            <version>1.0</version>
+            <groupId>org.xerial</groupId>
+            <artifactId>sqlite-jdbc</artifactId>
+            <version>3.8.11.2</version>
         </dependency>
         <dependency>
-            <groupId>extjar</groupId>
-            <artifactId>jstl</artifactId>
-            <version>1.0</version>
+            <groupId>javax.servlet.jsp.jstl</groupId>
+            <artifactId>jstl-api</artifactId>
+            <version>1.2-rev-1</version>
         </dependency>
         <dependency>
             <groupId>javax</groupId>
